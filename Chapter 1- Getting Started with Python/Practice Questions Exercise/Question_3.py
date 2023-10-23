@@ -1,4 +1,4 @@
-#You need to make a program for a leader baord.
+#You need to make a program for a leader board.
 #The program needs to output the number 1 to 9,
 #each on a separate line followed by a dot
 #printing the numbers with dots followed by it and writing \n to break each
